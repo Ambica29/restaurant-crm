@@ -1,2 +1,23 @@
-# maxfit-salesforce-crm
-Salesforce-based Event Management CRM for MAX FIT to manage events, attendees, speakers, and locations efficiently.
+Restaurant CRM
+Overview
+
+A simple CRM for restaurants to manage:
+
+Customers & loyalty points
+
+Table bookings
+
+Orders & payments
+
+Features
+
+Add/update customers
+
+Manage reservations
+
+Track orders & billing
+
+Generate basic reports
+
+
+

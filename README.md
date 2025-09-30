@@ -1,5 +1,4 @@
-Restaurant CRM
-Overview
+
 
 A simple CRM for restaurants to manage:
 
